@@ -1,0 +1,24 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex d14162c..695fd4e 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,12 +1,15 @@[m
+[31m-</> Markdown[m
+[31m-#Konoshi CS journey[m
+[32m+[m[32m# Konoshi CS journey[m
+ [m
+ Registro publico de mi formacion en Ciencias de la Computacion y Desarrollo de Software.[m
+ [m
+[31m-##Objetivo [m
+[32m+[m[32m## Objetivo[m[41m [m
+ [m
+ Aprender programacion y ciencias de la computacion desde los fundamentos hasta los temas avanzados, documentando mi progreso mediante ejercicios, laboratorios y proyectos.[m
+ [m
+[31m-##Estado actual [m
+[32m+[m[32m## Estado actual[m[41m [m
+ [m
+ Ciclo 0 — Preparacion profesional.[m
+[32m+[m
+[32m+[m[32m## Formacion[m
+[32m+[m
+[32m+[m[32mEste repositorio documenta mi aprendizaje en Ciencias de la Computacion y Desarrollo de Software, desde los fundamentos hasta temas avanzados.[m
